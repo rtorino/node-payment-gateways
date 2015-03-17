@@ -1,0 +1,8 @@
+{
+  "github": {
+    "oauthToken": "c1c4c9a9899f3a8b21dd9ba21a556b4e5d96a241"
+  },
+  "lint": {
+    "ignoredPathsForLinting": [ "node_modules/" ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "development": {
+    "api": {
+      "port": 5000
+    },
+    "paypal": {
+      "host": "api.sandbox.paypal.com",
+      "port": "",
+      "clientId": "AYcZrRIui2Q2_chSGdR_AOTwA93L9lm832oDJm45mA6gr-ySLn9Q0PyAwKpvnP7lLu3xxLyvaQkOHzyR",
+      "clientSecret": "EDw8HfbXtjfNHKzbkdFBbWTi42kdVA-T6Hf1CJPHWooWGK5KYksL-e3oGWDoRghFyLMhFetMN4OZthvc"
+    },
+    "braintree": {
+      "merchantId": "g7zk3kxg3vynd5bx",
+      "publicKey": "d76kkp767c4mcshg",
+      "privateKey": "61e21fb41081a9909d01afe4c2cf0906"
+    }
+  }
+}
